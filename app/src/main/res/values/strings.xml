@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Operaciones Basicas</string>
+    <string name="search">Search</string>
+    <string name="content_description_search">Description</string>
+    <string name="more">More</string>
+    <string name="content_description_more">More description</string>
+
+    <string name="content_editText1">Escribe numero 1</string>
+    <string name="content_editText2">Escribe numero 2</string>
+    <string name="content_op">Operación</string>
+    <string name="content_textView_results">Resultado</string>
+    <string name="content_btn_calcular">Calcular</string>
+</resources>
